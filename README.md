@@ -1,7 +1,7 @@
 # Projects
 Title: Projects for Data Analysis and Data Modelling
 Tools used: Python, Seaborn, Numpy, Pandas, Matplotlib, Sci-kit Learn, Stats model
-Software used: Jupyter Notebook ![image](https://user-images.githubusercontent.com/100364117/236661403-420af554-e5fb-4c05-be01-511c1d8b3975.png)
+Software used: Jupyter Notebook
 
 Introduction:
 - In each projects above, I have mentioned the ojbective at the start of the case study.
